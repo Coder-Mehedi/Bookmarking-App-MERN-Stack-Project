@@ -1,0 +1,9 @@
+.add-book-btn {
+    margin-top: 20px;
+}
+.flex {
+    display: flex;
+}
+i.material-icons {
+    cursor: pointer;
+}
